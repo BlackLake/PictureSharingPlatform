@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="MySQL - bobilerdb@localhost" uuid="f372e7f2-2d7d-4c8c-8c59-d37049049c8f">
+      <secret-storage>master_key</secret-storage>
+      <user-name>root</user-name>
+      <schema-pattern>bobilerdb.*</schema-pattern>
+      <default-schemas>bobilerdb.*</default-schemas>
+    </data-source>
+  </component>
+</project>
